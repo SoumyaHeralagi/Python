@@ -1,6 +1,8 @@
 Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
+#swaping using temp var
+
 a=5
 b=6
 
@@ -12,6 +14,7 @@ print(a)
 print(b)
 5
 
+#swaping without temp var
 
 a=9
 b=8
@@ -23,6 +26,7 @@ print(a)
 print(b)
 9
 
+swping using bit operator
 
 a=4
 b=7
@@ -34,7 +38,7 @@ print(a)
 print(b)
 4
 
-
+swaping without any operators
 
 a=3
 b=6
@@ -44,30 +48,36 @@ print(a)
 print(b)
 3
 
+#compliment
 ~12
 -13
 
+#and
 
 12&13
 12
 
+#or
 
 12|13
 13
 
+#and
 
 25&30
 24
 
+#xor
 
 20^14
 26
 
+#lefy shift
 
 10<<2
 40
 
-
+#importing math
 
 import math
 x=sqrt(25)
@@ -92,6 +102,8 @@ from math import sqrt, pow
 pow(4,5)
 1024.0
 
+
+#prime or not
 
 num=7
 for i in range(2,10):
