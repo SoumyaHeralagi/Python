@@ -26,7 +26,7 @@ print(a)
 print(b)
 9
 
-swping using bit operator
+#swaping using bit operator
 
 a=4
 b=7
@@ -38,7 +38,7 @@ print(a)
 print(b)
 4
 
-swaping without any operators
+#swaping without any operators
 
 a=3
 b=6
@@ -72,7 +72,7 @@ print(b)
 20^14
 26
 
-#lefy shift
+#left shift
 
 10<<2
 40
